@@ -29,4 +29,7 @@ Para mantener el código organizado, se ha creado el directorio src donde se enc
 - [utils_functions.py](src/utils_functions.py) (para la parte 2)
 
 ## Autores
-- Christian Ricardo Conchari Cabrera
+- Christian Ricardo Conchari Cabrera - chrisconchari@gmail.com
+- German Poletto - germanpp13@gmail.com
+- William Andrés Prada Mancilla - wpradamancilla@gmail.com
+

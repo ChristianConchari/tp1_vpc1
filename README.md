@@ -1,6 +1,6 @@
 # TP1 - Visión por Computadora I
 
-Este repositorio contiene la implementación del primer trabajo práctico para la materia de Visión por Computadora (CEIA - FIUBA).
+Este repositorio contiene la implementación del primer trabajo práctico para la materia de Visión por Computadora I (CEIA - FIUBA).
 
 ## Contenido
 - [Instalación](##instalación)
